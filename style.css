@@ -1,0 +1,31 @@
+
+.vs-image{
+  width:100px;
+  position: fixed;
+    bottom: 335px;
+    right: 340px;
+  
+}   
+.champ-image{
+    width:90px;
+  }
+  .image { 
+   position: relative;
+    height: 87px;
+   max-width: 101px;
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+    
+}
+h2 span { 
+    position: absolute; 
+    top: 90px; 
+   left: 31px;
+   color: ;
+   letter-spacing: -1px; 
+     font-size:15px;
+}
+.text-coloring{
+  color :black;
+}
